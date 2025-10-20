@@ -1,4 +1,5 @@
 git clone https://github.com/matwaypro3-sys/LIKE-SOFT
 pip install requests
+cd LikeeAnnihilator.py
 python LikeeAnnihilator.py
 или python3 LikeeAnnihilator.py
